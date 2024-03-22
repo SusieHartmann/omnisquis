@@ -1,0 +1,25 @@
+{
+  "name": "omnisquis",
+  "version": "1.0.0",
+  "description": "Javascript browser utilities for Early Buddhist Texts",
+  "main": "index.js",
+  "directories": {
+    "src": "src",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SusieHartmann/omnisquis.git"
+  },
+  "keywords": [
+    "accusantium",
+    "quas",
+    "esse"
+  ],
+  "author": "AlanBogisich",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.1.0",
+    "should": "^13.2.3"
+  }
+}
